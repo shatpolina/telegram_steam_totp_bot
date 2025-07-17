@@ -1,7 +1,7 @@
 # telegram steam-totp bot
 Private bot with time-based one-time password algorithm for Steam 
 
-## Security disclaimer and advice
+## Security disclaimer
 Bot privacy based on check tg user id. 
 Algorithm functions purely offline, secrets saves in .env file. Only __you and yourself are responsible__ for security of your keys.
 
